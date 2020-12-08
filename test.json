@@ -1,0 +1,25 @@
+{
+    "id001":{
+        "name":"Sally Okra",
+        "age" :"32",
+        "occupation":"nurse"
+    },
+
+    "id002":{
+        "name":"Ama Williams",
+        "age" :"27",
+        "occupation":"data scientist"
+    },
+
+    "id003":{
+        "name":"Philip Twum",
+        "age" :"28",
+        "occupation":"accountant"
+    },
+
+    "id004":{
+        "name":"Franklin Badu",
+        "age" :"30",
+        "occupation":"journalist"
+    }
+}
